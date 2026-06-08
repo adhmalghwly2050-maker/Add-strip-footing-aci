@@ -1,0 +1,6 @@
+{
+  "name": "Structural Designer Pro",
+  "description": "An advanced structural engineering design tool featuring 3D finite element frame analysis, slab design, beam loading, reinforcement layouts, and ETABS integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
